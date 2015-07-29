@@ -21,6 +21,6 @@
     "src/bsp-toggle-item-plugin.js",
     "src/bsp-toggle-item.js"
   ],
-  "name": "bsp-carousel",
-  "version": "1.0.0"
+  "name": "bsp-toggle-item",
+  "version": "0.0.1"
 }
