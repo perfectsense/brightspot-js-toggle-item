@@ -1,0 +1,19 @@
+{
+  "name": "brightspot-js-toggle-item",
+  "version": "1.0.0",
+  "description": "This plugin is a simple item toggling helper. It consists of a simple module and a plugin that allows it to use the bsp-util plugin pattern to instantiate the plugin.",
+  "main": "src/bsp-toggle-item-plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perfectsense/brightspot-js-toggle-item.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/perfectsense/brightspot-js-toggle-item/issues"
+  },
+  "homepage": "https://github.com/perfectsense/brightspot-js-toggle-item#readme"
+}
